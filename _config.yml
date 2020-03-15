@@ -1,14 +1,14 @@
 # Site settings
 title: PkP Games
-description: The site of the Company
+description: Site Under Construction
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Pkp Games
 user_description: MAKE GAMES
-user_title: independent Game Develpment Studio
-email: anon@anon.com
+user_title: Independent Game Development Studio
+#email: kalampokisp at protonmail.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
