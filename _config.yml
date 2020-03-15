@@ -15,6 +15,6 @@ gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-160343565-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
